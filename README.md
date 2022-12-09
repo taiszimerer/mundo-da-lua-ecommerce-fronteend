@@ -1,4 +1,4 @@
-PROJETO NO SURGE https://mundodaluaa.surge.sh/
+PROJETO NO SURGE https://mundodaluastore.surge.sh/
 
 # projeto-frontendreact
 
