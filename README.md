@@ -1,5 +1,5 @@
 # Mundo da Lua 🌌👩‍🚀🌚
-E-commerce de brinquedos e acessorios espaciais!
+E-commerce de brinquedos e acessórios espaciais!
 
 Esse é o projeto de introdução aos fundamentos do React. O objetivo é que funcione como o front-end de um E-Commerce de produtos infantis e brinquedos espaciais. Para os amantes do sistema solar!
 
