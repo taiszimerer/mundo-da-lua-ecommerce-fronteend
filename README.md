@@ -13,7 +13,7 @@ A pagina contém fundamentos de React, como:
 - Renderização condicional
 - localStorage para salvar os dados.
 
-Além dos requesitos que foram solicitados, o site possue frete grátis em compras a partir de 400,00 reais e tem design responsivo para Mobile e Desktop, para poder navegar de onde preferir!!
+Além dos requesitos que foram solicitados, o site possue frete grátis em compras a partir de 400,00 reais e tem design responsivo para Mobile e Desktop, para poder navegar de onde preferir.
 
 Espero que goste!! Se divirta e consuma sem moderação! 🤞🧐
 
