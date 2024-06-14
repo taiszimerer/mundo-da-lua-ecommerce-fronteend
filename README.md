@@ -17,4 +17,4 @@ Além dos requesitos obrigatórios do Projeto, o site possue frete grátis em co
 
 Espero que goste!! Se divirta e consuma sem moderação! 🤞🧐
 
-### [PROJETO NO SURGE](https://mundodaluastore.surge.sh/)
+### [Navegue no Projeto aqui](https://mundodaluastore.surge.sh/)
