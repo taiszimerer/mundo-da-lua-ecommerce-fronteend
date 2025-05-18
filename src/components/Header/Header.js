@@ -1,7 +1,5 @@
 import {
   HeaderContainer,
-  MenuCenter,
-  OptionsMenu,
   DivRight,
   BagImage,
   BotaoBuscar,

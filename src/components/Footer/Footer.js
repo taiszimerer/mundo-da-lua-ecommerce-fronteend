@@ -4,7 +4,7 @@ function Footer(props) {
   return (
     <FooterContainer className="footer">
       <Div className="credits">
-        Feito com ♡ em Labenu por Taís Zimerer
+        Criado por Taís Zimerer
       </Div>
 
     </FooterContainer>

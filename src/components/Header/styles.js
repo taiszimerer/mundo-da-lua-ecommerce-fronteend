@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 export const HeaderContainer = styled.header`
   width: 100%;
-  max-width: 1700px; 
+  max-width: 1600px; 
   font-size: 130%;
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  margin: 0px 100px 0px 0px;
+  margin: 0px 300px 0px 0px;
 
   @media screen and (max-device-width:450px) {
     display: flex;
@@ -75,11 +75,13 @@ export const BagImage = styled.img`
 `;
 
 export const InputBuscar = styled.input`
-  background-color: #f8f8f8;
+  background-color:#f8f8f8;
   height: 30%;
+  min-width: 60%;
   border: none;
   border-radius: 20px;
   padding: 5px;
+  margin-left: 1rem;
 
   @media screen and (max-device-width:450px) {
     height: 4vh;
@@ -91,6 +93,7 @@ export const BotaoBuscar = styled.button`
   background-color: white;
   margin-right: 10px;
   height: 30%;
+  min-width: 30%;
   border-radius: 10px;
   border: 1px solid grey;
   padding: 5px;
